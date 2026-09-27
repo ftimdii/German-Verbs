@@ -6603,7 +6603,39 @@ var verbs = [
         sie: "wählten aus"
     }
 },
+{
+    infinitive: "möchten",
+    praesens: "möchten",
+    perfekt: "hat gemocht",
+    praeteritum: "wollte",
 
+    praesensConj: {
+        ich: "möchte",
+        du: "möchtest",
+        er: "möchte",
+        wir: "möchten",
+        ihr: "möchtet",
+        sie: "möchten"
+    },
+
+    perfektConj: {
+        ich: "habe gemocht",
+        du: "hast gemocht",
+        er: "hat gemocht",
+        wir: "haben gemocht",
+        ihr: "habt gemocht",
+        sie: "haben gemocht"
+    },
+
+    praeteritumConj: {
+        ich: "wollte",
+        du: "wolltest",
+        er: "wollte",
+        wir: "wollten",
+        ihr: "wolltet",
+        sie: "wollten"
+    }
+},
 {
     infinitive: "beobachten",
     praesens: "beobachten",
